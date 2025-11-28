@@ -1,0 +1,13 @@
+../Core/Src/freertos.c:111:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:147:6:StartDefaultTask	1
+../Core/Src/freertos.c:163:13:Sound_Send	2
+../Core/Src/freertos.c:173:6:vSoundTask	6
+../Core/Src/freertos.c:220:17:ComputeSliceScore	4
+../Core/Src/freertos.c:241:13:PlayGameOverTune	1
+../Core/Src/freertos.c:256:13:FlashTimesUp	3
+../Core/Src/freertos.c:273:13:LCD_PrintCenteredLine1	5
+../Core/Src/freertos.c:294:13:MakeFeedback	5
+../Core/Src/freertos.c:316:13:Buzzer_PlayTone	4
+../Core/Src/freertos.c:347:13:LCD_DrawTimer	5
+../Core/Src/freertos.c:376:13:UpdateTimer	3
+../Core/Src/freertos.c:398:6:vGameTask	23
